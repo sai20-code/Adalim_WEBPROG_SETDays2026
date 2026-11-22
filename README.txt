@@ -4,7 +4,7 @@ PROJECT INFORMATION - SET DAYS 2026 WEBSITE
 
 Student Name   : Isaiah U. Adalim
 Course/Section : BSIT IT-252
-Instructor     : Cris P. Garcia
+Instructor     : Kris P. Garcia
 Date Submitted : November 23, 2026
 
 ----------------------------------------------------------------------
